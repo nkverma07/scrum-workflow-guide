@@ -21,9 +21,9 @@
 | Title              | Login with valid credentials                                     |
 | Description        | Verify that a user can login with valid username and password    |
 | Preconditions      | User is on the login page                                        |
-| Steps to Execute   | 1. Enter valid username<br>2. Enter valid password<br>3. Click Login   |
+| Steps to Execute   | 1. Enter valid username. Enter valid password 3. Click Login     |
 | Test Data          | username: testuser, password: Pass123                            |
 | Expected Result    | User is redirected to the homepage                               |
-| Actual Result      |                                                                  |
-| Status             |                                                                  |
-| Comments           |                                                                  |
+| Actual Result      | User is successfuly redirected to the homepage                   |
+| Status             | approved                                                         |
+| Comments           | nothing                                                          |
